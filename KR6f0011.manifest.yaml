@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6f0011/v1
+canonical_location: https://kanripo.org/bkk/KR6f0011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大聖文殊師利菩薩佛剎功德莊嚴經
+  identifiers:
+    alt_id:
+    - T11n0319
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0319.xml
+    old_id: T11n0319
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0011_000.yaml, hash: 'sha256:3ffbf041ab063bb756fd2db6c5d7e9990607ebafdcb38fb1b001703a4ad880d7'}
+  - {seq: 1, filename: KR6f0011_001.yaml, hash: 'sha256:fb019f0d96c283e79fafbed3a7170f44530f6163507ec81e75b0df4b848a3fc9'}
+  - {seq: 2, filename: KR6f0011_002.yaml, hash: 'sha256:8a956a24b371c61d5488e88520e55a2f4a52c1435b2d4bb37d45df5719d3fd76'}
+  - {seq: 3, filename: KR6f0011_003.yaml, hash: 'sha256:4984e3d4ce3d6c2121f717ddce517105f40f1dcccd42dd9d1720e0a8534cd9ae'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0011_001.markers.yaml, hash: 'sha256:8a7f21fb7d27420b8165886c9e8278c50e6f8cd78431331b0a9ef4ea6cbfe845'}
+  - {seq: 2, role: markers, filename: assets/KR6f0011_002.markers.yaml, hash: 'sha256:60db43ca18bc1620f8d6ca2b3839a20db5218453e477724ea02a9ed6413eedbb'}
+  - {seq: 3, role: markers, filename: assets/KR6f0011_003.markers.yaml, hash: 'sha256:0b4f13371c596e27b176d482e723382a30ace60b4b1d85226f2cde6c2aabcc8c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0011_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7005
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0011_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8312
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0011_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7272
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷下'
+  type: juan
+  level: 1
+hash: sha256:7a418d9888aad90ac7eed0f46701b98a719dc9352f992252a491c7ae2777ab13
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

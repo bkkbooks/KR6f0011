@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6f0011/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0011/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖文殊師利菩薩佛剎功德莊嚴經
+  identifiers:
+    krp: KR6f0011
+    cbeta: T11n0319
+    cbeta_old_id: T11n0319
+    authorityid: CA0003363
+    json_key: T0319
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0319.xml
+    old_id: T11n0319
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0011_000-T.yaml, hash: 'sha256:3ffbf041ab063bb756fd2db6c5d7e9990607ebafdcb38fb1b001703a4ad880d7'}
+  - {seq: 1, filename: KR6f0011_001-T.yaml, hash: 'sha256:6aa1bcd71ad67d76342ca9e4594873ea68d85fff7a2b447d610b93f1447cbb4b'}
+  - {seq: 2, filename: KR6f0011_002-T.yaml, hash: 'sha256:689c5138d283d4b3b649daf9f773e2f97ad3ce8745777d14d3c8b7ad9f9b53cc'}
+  - {seq: 3, filename: KR6f0011_003-T.yaml, hash: 'sha256:ced8e91c450c98295a931041da2cd92283263c2093b52b0d54f8641031c40a8d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0011_000-T.markers.yaml, hash: 'sha256:eca2150486a157f32f3aaee2bf42e8d67d39f522120f4db546bd8acf94c3e6c3'}
+  - {seq: 1, role: markers, filename: assets/KR6f0011_001-T.markers.yaml, hash: 'sha256:420a9f911887fddc2d7649a25007f069b124265da442a22580904ee4e5035979'}
+  - {seq: 2, role: markers, filename: assets/KR6f0011_002-T.markers.yaml, hash: 'sha256:6cc6e7633dffa4f4436e054c893fcfe6d4791e7c32b6b24544d9283479dd2b4d'}
+  - {seq: 3, role: markers, filename: assets/KR6f0011_003-T.markers.yaml, hash: 'sha256:21dc14c3f209789e0f33f1660c5721cde7692623bb1a0da3abafae3d34ceb51d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0011_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7005
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0011_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8312
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0011_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7272
+  label: '大聖文殊師利菩薩佛剎功德莊
+
+    嚴經卷下'
+  type: juan
+  level: 1
+hash: sha256:8f930da84d5708362d11d25326aed0aaf52e0152375dfff6fa835bbcab6bfa80
