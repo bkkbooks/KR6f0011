@@ -26,7 +26,7 @@ assets:
   - {seq: 2, filename: KR6f0011_002.yaml, hash: 'sha256:dbbc61bcb51395fd431dfca8a3644f3698618dd4ab2bc0a4eb4c2d5d4b477d0a'}
   - {seq: 3, filename: KR6f0011_003.yaml, hash: 'sha256:4f0903541555212ad0c93512c94fe9bdf6bb0d154787c5123c56ee54c375dcd9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0011_000.markers.yaml, hash: 'sha256:ee09f55d51de4b74821c61217956f2ac77012910dd5b00dccea6b59087ff617f'}
+  - {seq: 0, role: markers, filename: assets/KR6f0011_000.markers.yaml, hash: 'sha256:3b1c4a0f3094da430db4246b73a49603aa2f148b10270213946e511ac3e8cd2f'}
   - {seq: 1, role: markers, filename: assets/KR6f0011_001.markers.yaml, hash: 'sha256:1f1280830afe9ac29cb47055f49e622104fc191b9b474666e9defdbfb837ba94'}
   - {seq: 2, role: markers, filename: assets/KR6f0011_002.markers.yaml, hash: 'sha256:00be7cad1f034038b95df927211646fdf50737d40dae6c19fc8faafcdf966301'}
   - {seq: 3, role: markers, filename: assets/KR6f0011_003.markers.yaml, hash: 'sha256:5835f18ff625d67911680e61ada5087f2e21dfa5ef8ab8f740658bddc2b45470'}
@@ -67,7 +67,7 @@ table_of_contents:
     嚴經卷下'
   type: juan
   level: 1
-hash: sha256:0c071ceec8909690c6e4c23846a721b001b3a59ea3a4b450bb145615b567e3bc
+hash: sha256:67c4d74b90d4c5de827125c5e5aae57f244300c4f06dd1263ea5e2062a07a92d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
